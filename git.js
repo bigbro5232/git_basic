@@ -1,3 +1,5 @@
 console.log("Hello Git");
 
-const MAX  = "test";
+const MAX = 1000;
+
+const bye = "Good bye";
